@@ -1,9 +1,8 @@
 # AllThingsAndroid
+![Logo](/images/logo.png)
 **This is a collection of writeups, cheatsheets, videos, related to Android Pentesting during my learning journey.**
 
 This is currently work in progress I will add more resources as I find them.
-
-![Logo](/images/logo.png)
 
 ### Created By [@jdonsec](https://twitter.com/jdonsec)
 
@@ -12,7 +11,7 @@ This is currently work in progress I will add more resources as I find them.
 - [**NAHAMSEC** - Mobile Hacking](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/mobile.md)
 - [OWASP - Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
 - [**Deesee Blog** - Android Application Hacking Resources](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html)
-- [**Maddie Stone - Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
+- [**Maddie Stone** - Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
 - [Hacker101 - Mobile Hacking Crash Course](https://www.hacker101.com/sessions/mobile_crash_course.html)
 - [MOBISEC -  Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/)
 - [**Kamil Vavra** - How to bypass Android certificate pinning and intercept SSL traffic](https://vavkamil.cz/2019/09/15/how-to-bypass-android-certificate-pinning-and-intercept-ssl-traffic/)
@@ -49,8 +48,3 @@ This is currently work in progress I will add more resources as I find them.
 -[**Avinash (dedsec69)** - IDOR leading to downloading of any attachment](https://hackerone.com/reports/668439)
 
 #### Videos/POC
-
-
-
-
- 

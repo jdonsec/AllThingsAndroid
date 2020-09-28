@@ -20,7 +20,7 @@ This is currently work in progress I will add more resources as I find them.
 ### Learning Videos
 - [**A must follow on medium Vickie Li** - An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
 - [**Virseccon 2020** - B3nac Android Hacking VirSecCon2020 talk](https://www.youtube.com/watch?v=mr64si_-YwI)
-- [Presenters:** Joff Thyer and Derek Banks** - Android App Penetration Testing 101](https://www.youtube.com/watch?v=2uwhrfXCl4I)
+- [Presenters: **Joff Thyer and Derek Banks** - Android App Penetration Testing 101](https://www.youtube.com/watch?v=2uwhrfXCl4I)
 - [Speaker: **Nikita Stupin**, Mail.ru - Vulnerabilities of mobile OAuth 2.0](https://www.youtube.com/watch?v=vjCF_O6aZIg)
 - [Bugcrowd **Ben Actis** LevelUp 2017 - Advanced Android Bug Bounty skills](https://www.youtube.com/watch?v=OLgmPxTHLuY)
 
